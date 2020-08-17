@@ -1,3 +1,2 @@
 ananth
 pradeep
-karthik
